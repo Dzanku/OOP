@@ -1,5 +1,4 @@
 package ru.netology.stats;
-
 public class Post {
     public String name;
     public String passport;
